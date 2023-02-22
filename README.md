@@ -1,2 +1,0 @@
-# pythonflask
-CRUD operation
